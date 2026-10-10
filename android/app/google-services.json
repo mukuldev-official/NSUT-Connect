@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660001787028",
+    "project_id": "nsut-connect0011",
+    "storage_bucket": "nsut-connect0011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660001787028:android:7c863e341204365bad3881",
+        "android_client_info": {
+          "package_name": "com.example.nsut_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQU_pMm0rFxjyd_nzMDmmTVDeial4aodA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
